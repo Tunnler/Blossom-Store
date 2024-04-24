@@ -30,3 +30,5 @@ C:\Users\Sebastian\Documents\Proyectos\Blossom-Store\CapaPresentacionAdmin\obj\D
 C:\Users\Sebastian\Documents\Proyectos\Blossom-Store\CapaPresentacionAdmin\obj\Debug\net8.0\ref\CapaPresentacionAdmin.dll
 C:\Users\Sebastian\Documents\Proyectos\Blossom-Store\CapaPresentacionAdmin\bin\Debug\net8.0\package-lock.json
 C:\Users\Sebastian\Documents\Proyectos\Blossom-Store\CapaPresentacionAdmin\bin\Debug\net8.0\package.json
+C:\Users\Sebastian\Documents\Proyectos\Blossom-Store\CapaPresentacionAdmin\bin\Debug\net8.0\tailwind.extension.json
+C:\Users\Sebastian\Documents\Proyectos\Blossom-Store\CapaPresentacionAdmin\obj\Debug\net8.0\CapaPresentacionAdmin.sourcelink.json

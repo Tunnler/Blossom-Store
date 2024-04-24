@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v7H0evLBEVPFUNpjgf5nUvvSMLrulVz0SqLxc3E/zhM=",
+  "Hash": "iTm013AezKw/q0aSJ6ld6M6+BRRksAH7wzqvtQjcIBI=",
   "Source": "CapaPresentacionAdmin",
   "BasePath": "_content/CapaPresentacionAdmin",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Sebastian\\Documents\\Proyectos\\Blossom-Store\\CapaPresentacionAdmin\\wwwroot\\css\\styles.css",
+      "SourceId": "CapaPresentacionAdmin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sebastian\\Documents\\Proyectos\\Blossom-Store\\CapaPresentacionAdmin\\wwwroot\\",
+      "BasePath": "_content/CapaPresentacionAdmin",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\Sebastian\\Documents\\Proyectos\\Blossom-Store\\CapaPresentacionAdmin\\wwwroot\\favicon.ico",
